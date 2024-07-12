@@ -1,0 +1,27 @@
+[gd_scene format=2]
+
+[node name="MineralTemplate" type="VBoxContainer"]
+margin_right = 385.0
+margin_bottom = 600.0
+rect_min_size = Vector2( 20, 0 )
+alignment = 2
+
+[node name="PercentageLabel" type="Label" parent="."]
+margin_top = 554.0
+margin_right = 385.0
+margin_bottom = 568.0
+align = 1
+valign = 2
+
+[node name="ColorRect" type="ColorRect" parent="."]
+margin_top = 572.0
+margin_right = 385.0
+margin_bottom = 582.0
+rect_min_size = Vector2( 10, 10 )
+
+[node name="Label" type="Label" parent="."]
+margin_top = 586.0
+margin_right = 385.0
+margin_bottom = 600.0
+align = 1
+valign = 2
