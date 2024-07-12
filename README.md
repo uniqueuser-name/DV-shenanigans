@@ -1,4 +1,4 @@
-# VeinFinder Tool pitch
+# VeinFinder Tool
 
 Every ringa knows that a good spot to mine is an integral part of a successful career, but looking for one could take ages...
 
