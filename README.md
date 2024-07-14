@@ -15,7 +15,11 @@ VeinFindr(TM) - a handy tool for composition analysis of the rings.
 Use VeinFindr(TM)! 
 
 ### WARNING! Consider this before usage:
-Looking for sweet spots to mine is a good part of the gameplay! It is semi-random and nothing beats the feeling of finally locating one. This tool provides a way to decrease the effort and time taken for this, which MIGHT KILL THE FUN!
+Looking for sweet spots to mine is a good part of the gameplay! It is semi-random and nothing beats the feeling of finally locating one. 
+
+This tool provides a way to decrease the effort and time taken for this, albeit it's still somewhat tricky to find the right spot.
+
+Anyway, be warned: it MIGHT kill the fun!
 
 I am considering adding a balanced version of this tool by incorporating it as a mod in-game.(somehow). All suggestions and requests are welcome!
 
